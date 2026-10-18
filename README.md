@@ -48,7 +48,7 @@ I'm still learning and discovering the areas of technology I enjoy most, and I b
 
 - 📧 Email: [rattikanka67@nu.ac.th](mailto:rattikanka67@nu.ac.th)
 - 💻 GitHub: [@rattikank](https://github.com/rattikank)
-- 🌐 Portfolio: 
+- 🌐 Resume: https://rattikank.github.io/Resume/
 
 ---
 
